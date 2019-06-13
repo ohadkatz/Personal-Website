@@ -1,0 +1,12 @@
+.custbtn {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 250%;
+  font-weight: 50;
+  width: 100%;
+  background-color: #d0eefa;
+}
+.btn:hover,
+.btn-large:hover,
+.btn-small:hover {
+  background-color: #0984e3;
+}
