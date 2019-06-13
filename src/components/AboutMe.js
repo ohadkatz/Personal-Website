@@ -14,14 +14,13 @@ class AboutMe extends Component {
         <ul className="collapsible popout">
           <li>
             <div className=" collapsible-header">ABOUT ME</div>
-            <div className="collapsible-body">
+            <div className="collapsible-body center-align">
               <img
-                className="center-align"
                 src="https://avatars1.githubusercontent.com/u/20158647?s=460&v=4"
                 alt="ohad"
                 style={{ width: 200, height: 200 }}
               />
-              <div className="center-align">
+              <div>
                 <span>
                   {" "}
                   Hello! My name is Ohad Katz, I am a graduate of Computer
