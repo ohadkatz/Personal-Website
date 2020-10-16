@@ -1,13 +1,15 @@
 .Title {
   padding-top: 8%;
   font-family: "Josefin Sans", sans-serif;
-  font-weight: 700;
+  font-weight: 200;
   font-size: 650%;
-  color: #c8d6e5;
+  color: white;
 }
 .info {
   font-family: "Josefin Sans", sans-serif;
-  color: #c8d6e5;
+  color: white;
+  font-size: 200%;
+  padding-bottom: 1%;
 }
 .border {
   border: solid;

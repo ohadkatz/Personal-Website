@@ -9,14 +9,19 @@ const App = () => {
       <div className="center-align">
         <h1 className="Title">
           {" "}
-          OHAD KATZ
+          Ohad Katz
           <br />
         </h1>
 
-        <h5 className="info"> Computer Science B.S. </h5>
+        <h5 className="info"> B.S. Computer Science </h5>
         <div className="container">
           <div className="border">
-            <CustomButton btnName="resume" link="/static/Resume.pdf" />
+            <CustomButton
+              btnName="resume"
+              // link="https://www.canva.com/design/DADR0vIXPhE/S4iVGPOsRRKO-SZxt5ILhA/view?website#2"
+              link="/OhadKatz_resume.pdf"
+              target="_blank"
+            />
             <CustomButton btnName="github" link="https://github.com/ohadkatz" />
             <CustomButton
               btnName="linkedin"
